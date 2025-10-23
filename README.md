@@ -32,5 +32,5 @@ I am an aspiring Data Analyst skilled in transforming raw data into meaningful i
 
 ## 📬 +234 81 649 1118  
 📧 Email: *Nelsonchimobi4@gmail.com*  
-💼 LinkedIn: *Your LinkedIn link here*
+💼 LinkedIn: *[Your LinkedIn link here](http://www.linkedin.com/in/Chimobi-Nelson-Ayogu)*
 
