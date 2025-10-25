@@ -15,8 +15,7 @@ The objective is to answer critical business questions and generate insights reg
 | 3 | Which branch performs the best in terms of revenue? |
 | 4 | Who are the top 5 highest-spending customers? |
 | 5 | Which sales representative generated the most revenue? |
-| 6 | What is the monthly revenue trend? |
-| 7 | What is the revenue distribution by gender? |
+| 6 | What is the revenue distribution by gender? |
 
 ---
 
@@ -42,10 +41,9 @@ Insights will be derived from executed queries and may include:
 - Strongest-performing branches
 - Most valuable customers
 - Top sales representatives
-- Sales growth trends over time
 - Gender-based revenue patterns
 
 ---
 
 ## 👤 Author
-**Your Name** – Aspiring Data Analyst | Skills: SQL, Power BI, Excel, Tableau
+**Chimobi Nelson Ayogu** – Aspiring Data Analyst | Skills: SQL, Power BI, Excel, Tableau
