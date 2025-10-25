@@ -21,7 +21,7 @@ I am an aspiring Data Analyst skilled in transforming raw data into meaningful i
 ## 📂 My Projects  
 | Project Name | Tool | Description | Link |
 |--------------|------|-------------|------|
-| **Sales Dashboard** | Power BI | Analyzed company sales performance with KPIs and trends | ./Sales%20Dashboard |
+| **Sales Dashboard** | Power BI | Analyzed company sales performance with KPIs and trends | [View Folder](./Sales%20Dashboard) |
 | **Retail Sales Dashboard** | Power BI | Visualized product/category sales and customer behavior |
 | **Finance Dashboard** | Power BI | Financial performance analysis with created measures | 
 | **Excel Data Cleaning Projects** | Excel | Cleaned and transformed datasets for analysis |
