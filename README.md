@@ -26,7 +26,7 @@ I am an aspiring Data Analyst skilled in transforming raw data into meaningful i
 | **Finance Dashboard** | Power BI | Financial performance analysis with created measures | [View Folder](./Finance%20Dashboard) |
 | **Excel Data Cleaning Projects** | Excel | Cleaned and transformed datasets for analysis |
 | **SQL Analysis (Basic Project)** | SQL | Executed SQL queries for filtering, joins, and insights | 
-| **Tableau Project** | Tableau | Built interactive visualization for storytelling |
+| **Tableau Project** | Tableau | Built interactive visualization for storytelling |[View Folder](./Tableau%20Project) |
 
 ---
 
