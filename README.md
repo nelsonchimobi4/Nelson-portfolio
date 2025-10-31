@@ -4,7 +4,7 @@ A collection of my projects in Excel, Power BI, SQL, and Tableau.
 ---
 
 ## ✨ About Me  
-I am an aspiring Data Analyst skilled in transforming raw data into meaningful insights using Excel, Power BI, SQL, and Tableau. I enjoy working with sales, finance, and retail data to uncover trends, improve decision-making, and create visually appealing dashboards.
+Chimobi Nelson is an aspiring Data Analyst skilled in transforming raw data into meaningful insights using Excel, Power BI, SQL, and Tableau. I enjoy working with sales, finance, and retail data to uncover trends, improve decision-making, and create visually appealing dashboards.
 
 ---
 
