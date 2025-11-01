@@ -1,4 +1,4 @@
-# 🧭 Sales Dashboard –(Power BI)
+# 🧭 Sales Dashboard – (Power BI)
 
 ## 📊 Overview  
 This Power BI dashboard provides a comprehensive view of supermarket sales performance.  
@@ -52,12 +52,24 @@ To monitor sales trends, identify top-performing products and categories, and ev
 
 ---
 
-## 🔗 Access  
-To view this dashboard:  
-1. Download the file **`Sales Dashboard.pbix`** from this repository.  
-2. Open it using **Power BI Desktop**.  
+## 🖼️ Dashboard Preview  
+Below is a preview of the Sales Dashboard included in this repository:  
+
+![Sales Dashboard Screenshot](Sales%20Dashboard.png)
 
 ---
+
+## 📥 Power BI File  
+You can open the dashboard in **Power BI Desktop** using the file below:  
+
+[➡️ Download / View the Power BI File](Sales%20Dashboard.pbix)
+
+---
+
+## 👤 Author  
+**Chimobi Nelson Ayogu**  
+*Portfolio Project – Sales Performance Analysis Dashboard*
+
 
 > **Author:** Chimobi Nelson Ayogu
 > **Purpose:** Portfolio Project – Sales Performance Analysis Dashboard
