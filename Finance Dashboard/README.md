@@ -60,7 +60,7 @@ To monitor company financial performance across product lines and market segment
 ## 🖼️ Dashboard Preview
 Below is a preview of the Finance Dashboard included in this repository:
 
-[Finance Dashboard Screenshot](./Finance%20Dashboard.png)
+![Finance Dashboard Screenshot](./Finance%20dashboard.png)
 
 ---
 
@@ -74,5 +74,3 @@ You can open and explore the dashboard in **Power BI Desktop** using the link be
 ## 👤 Author
 **Chimobi Nelson Ayogu**  
 *Portfolio Project – Finance Dashboard*
-
-
