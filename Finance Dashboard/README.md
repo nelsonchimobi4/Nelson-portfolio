@@ -60,7 +60,7 @@ To monitor company financial performance across product lines and market segment
 ## 🖼️ Dashboard Preview
 Below is a preview of the Finance Dashboard included in this repository:
 
-![Finance Dashboard Screenshot](./Finace%20dashboard.png)
+![Finace Dashboard Screenshot](./Finace%20dashboard.png)
 
 ---
 
