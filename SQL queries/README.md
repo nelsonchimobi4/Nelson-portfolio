@@ -108,7 +108,7 @@ ORDER BY
 ## 📁 Files in this Folder
 | File | Description |
 |------|-------------|
-|  |  |
+|[View SQL Queries](./Lighthouse_db_queries.sql)|This project contains structured SQL queries for data extraction, cleaning, transformation, and financial performance analysis from the Lighthouse database.|
 
 ---
 
