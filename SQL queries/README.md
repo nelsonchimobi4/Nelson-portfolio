@@ -114,11 +114,12 @@ ORDER BY
 
 ## 📥 Insight Summary 
 Insights will be derived from executed queries and may include:
-- Highest revenue-generating products and categories
-- Strongest-performing branches
-- Most valuable customers
-- Top sales representatives
-- Gender-based revenue patterns
+-Phone products generated the highest total revenue, indicating strong demand in that category.
+-The Samsung S25 is the top-performing product, contributing the most revenue compared to all other items.
+-The VI branch leads in revenue performance, showing stronger sales activity than the other branches.
+- Praise Ayomide leads with ₦42.16M spent, showing strong customer value.
+-Amaka Joseph tops sales with ₦41.83M revenue, marking her as a key performer.
+-Male customers generated twice the revenue of females at ₦148.97M.
 
 ---
 
