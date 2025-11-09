@@ -1,8 +1,7 @@
 # 💼 Finance Dashboard (Power BI)
 
 ## 📊 Overview
-This Power BI dashboard provides a detailed analysis of financial performance across products, customer segments, and countries.  
-It highlights key metrics such as revenue, profit, and discount distribution — helping business teams evaluate profitability and identify opportunities for improvement.
+This Power BI dashboard analyzes the financial performance of bicycle products across different customer groups and countries. It highlights key metrics such as revenue, profit, and discount patterns, enabling business teams to assess product profitability and uncover opportunities for strategic improvement.
 
 ---
 
@@ -16,7 +15,7 @@ To monitor company financial performance across product lines and market segment
 ---
 
 ## 📁 Data Information
-- **Dataset Type:** Sample financial transactions dataset  
+- **Dataset Type:** Financial transactions dataset
 - **Key Fields:** Product, Segment, Country, Revenue, Profit, Discount, Month, Year  
 - **Analysis Focus:** Product performance, profitability, discount impact, regional revenue distribution  
 
