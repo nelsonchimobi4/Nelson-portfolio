@@ -1,8 +1,7 @@
 # 🏪 Retail Sales Dashboard (Power BI)
 
 ## 📊 Overview  
-This Power BI dashboard provides a comprehensive analysis of retail sales performance.  
-It highlights key metrics such as total sales, profit, and revenue across products, categories, cities, and regions — helping business teams make data-driven decisions and identify growth opportunities.
+This Power BI dashboard provides a comprehensive analysis of a retail store’s sales and delivery performance. It highlights key metrics such as total sales, profit, and revenue across various product categories, customer segments, cities, and regions enabling the business to make data-driven decisions and identify growth opportunities.
 
 ---
 
